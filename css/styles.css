@@ -169,20 +169,18 @@ color: #F4F4FD;
     text-align: center;
 }
 
-.team-text {
-}
-
 /* #endregion */
 
 /* #region Section-3 Our Portfolio */
 .our-portfolio {
 }
 
-.portfolio-text {
-    line-height: 1.5;
+.portfolio-item {
+background-color: #FFFFFF;
 }
 
-.portfolio-list {
+.portfolio-text {
+    line-height: 1.5;
 }
 
 .portfolio-item {
