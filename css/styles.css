@@ -95,10 +95,7 @@ color: #F4F4FD;
     line-height: 1.5;
 }
 
-.nav-link:hover {
-    color: #404BBF;
-}
-
+.nav-link:hover,
 .nav-link:focus {
     color: #404BBF;
 }
@@ -153,6 +150,10 @@ color: #F4F4FD;
 }
 /* #endregion */
 
+.feature-item {
+}
+
+
 /* #region Section Our Team */
 .our-team {
     background: #F4F4FD;
@@ -162,7 +163,7 @@ color: #F4F4FD;
     text-align: center;
 }
 
-.team--text {
+.team-text {
     line-height: 1.5;
     text-align: center;
 }
@@ -176,8 +177,12 @@ color: #F4F4FD;
     line-height: 1.5;
 }
 
-.portfolio-item {
+.portfolio-list {
     background-color: #FFFFFF;
+}
+
+.portfolio-item {
+    
 }
 /* #endregion */
 
