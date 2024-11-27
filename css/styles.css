@@ -1,0 +1,191 @@
+/* #region Base */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #FFFFFF;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 400;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+h1,
+h2,
+h3,
+p {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: currentColor;
+}
+
+ul {
+    list-style-type: none;
+}
+
+address {
+    font-style: normal;
+}
+
+button {
+    cursor: pointer;
+}
+/* #endregion */
+
+/* #region Common */
+.section-title {
+    font-size: 36px;
+    line-height: 1.11;
+    font-weight: 700;
+    text-transform: capitalize;
+    text-align: center;
+    color: #2E2F42;
+    letter-spacing: 0.02em;
+}
+
+.subtitle {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.20;
+    text-transform: capitalize;
+    text-align: left;
+    color: #2E2F42;
+    letter-spacing: 0.02em;
+}
+
+/* Logo */
+.logo {
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    line-height: 1.17;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    color: #4D5AE5;
+    text-transform: uppercase;
+}
+
+.header-logo,
+.footer-logo {
+    margin-left: auto;
+}
+
+.logo-dark {
+    color: #2E2F42;
+}
+
+.logo-light {
+color: #F4F4FD;
+}
+/* endLogo */
+
+/* #endregion */
+
+/* #region Header */
+.nav {
+}
+.nav-list {
+}
+.nav-item {
+}
+.nav-link {
+    font-weight: 500;
+    color: #2E2F42;
+    line-height: 1.5;
+}
+
+.nav-link:hover {
+    color: #404BBF;
+}
+
+.nav-link:focus {
+    color: #404BBF;
+}
+
+.nav-link:active {
+    text-decoration: underline;
+}
+.header-contacts {
+}
+.header-contacts-list {
+}
+.header-contacts-item {
+}
+
+.header-contacts-link:hover {
+    color: #404BBF;
+    }
+/* #endregion */
+
+/* #region Hero */
+.hero {
+    background: #2E2F42;
+}
+
+.hero-title {
+    color: #FFFFFF;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+
+/* Buttons */
+.btn {
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    background: #4D5AE5;
+}
+
+.btn:hover,
+.btn:focus {
+    background: #404BBF;
+}
+
+/* #endregion */
+
+/* #region Section Feature */
+.feature {
+}
+/* #endregion */
+
+/* #region Section Our Team */
+.our-team {
+    background: #F4F4FD;
+}
+
+.team {
+    text-align: center;
+}
+
+.team--text {
+    line-height: 1.5;
+    text-align: center;
+}
+/* #endregion */
+
+/* #region Section Our Portfolio */
+.our-portfolio {
+}
+
+.portfolio-text {
+    line-height: 1.5;
+}
+
+.portfolio-item {
+    background-color: #FFFFFF;
+}
+/* #endregion */
+
+.footer {
+    background: #2E2F42;
+}
+
+.footer-slogan {
+    color: #F4F4FD;
+    line-height: 1.5
+}
