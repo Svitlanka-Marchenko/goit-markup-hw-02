@@ -110,7 +110,8 @@ color: #F4F4FD;
 .header-contacts-item {
 }
 
-.header-contacts-link:hover {
+.header-contacts-link:hover,
+.header-contacts-link:focus {
     color: #404BBF;
     }
 /* #endregion */
@@ -145,7 +146,7 @@ color: #F4F4FD;
 
 /* #endregion */
 
-/* #region Section Feature */
+/* #region Section-1 Feature */
 .feature {
 }
 /* #endregion */
@@ -154,7 +155,7 @@ color: #F4F4FD;
 }
 
 
-/* #region Section Our Team */
+/* #region Section-2 Our Team */
 .our-team {
     background: #F4F4FD;
 }
@@ -167,9 +168,13 @@ color: #F4F4FD;
     line-height: 1.5;
     text-align: center;
 }
+
+.team-text {
+}
+
 /* #endregion */
 
-/* #region Section Our Portfolio */
+/* #region Section-3 Our Portfolio */
 .our-portfolio {
 }
 
@@ -178,11 +183,9 @@ color: #F4F4FD;
 }
 
 .portfolio-list {
-    background-color: #FFFFFF;
 }
 
 .portfolio-item {
-    
 }
 /* #endregion */
 
