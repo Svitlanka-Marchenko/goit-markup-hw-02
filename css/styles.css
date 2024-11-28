@@ -181,7 +181,8 @@ color: #F4F4FD;
 .our-portfolio {
 }
 
-.portfolio-item {
+.portfolio-item,
+.team-item {
     background-color: #FFFFFF;
 }
 
