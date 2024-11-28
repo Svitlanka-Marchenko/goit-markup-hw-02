@@ -155,6 +155,7 @@ color: #F4F4FD;
 }
 
 .feature-text {
+    text-align: left;
 }
 
 /* #region Section-2 Our Team */
@@ -186,9 +187,6 @@ color: #F4F4FD;
 
 .portfolio-text {
     line-height: 1.5;
-}
-
-.portfolio-item {
 }
 /* #endregion */
 
