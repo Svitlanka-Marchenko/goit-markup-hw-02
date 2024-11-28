@@ -154,6 +154,8 @@ color: #F4F4FD;
 .feature-item {
 }
 
+.feature-text {
+}
 
 /* #region Section-2 Our Team */
 .our-team {
@@ -179,6 +181,7 @@ color: #F4F4FD;
 }
 
 .portfolio-item {
+    background-color: #FFFFFF;
 }
 
 .portfolio-text {
